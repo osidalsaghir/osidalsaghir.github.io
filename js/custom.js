@@ -11,7 +11,6 @@ $(function(){
     jQuery(document).ready(function() {
 		$('body').backstretch([
 	 		 "images/tm-bg-slide-1.jpg", 
-			"images/prog.jpg", 
 	 			], 	{duration: 3200, fade: 1300});
 		});
 })
